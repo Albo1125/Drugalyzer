@@ -1,4 +1,4 @@
-local useWhitelist = true
+local useWhitelist = false
 local authorizedIdentifiers = {
 	-- Add steam/license/discord/other identifiers here
     "license:123",
