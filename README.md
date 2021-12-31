@@ -1,5 +1,5 @@
 # Drugalyzer
-Drugalyzer is a UK-based resource for FiveM by Albo1125 that provides saliva drug testing functionality for drivers.
+Drugalyzer is a UK-based resource for FiveM by Albo1125 that provides saliva drug testing functionality for drivers. It is available at [https://github.com/Albo1125/Drugalyzer](https://github.com/Albo1125/Drugalyzer)
 
 ## Installation & Usage
 1. Download the latest release.
